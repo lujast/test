@@ -13,7 +13,7 @@ namespace test
 
             Console.WriteLine("hello world");
 
-
+            Console.WriteLine();
         }
     }
 }
